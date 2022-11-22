@@ -1,7 +1,7 @@
 ## SYOUNG102 🐤
 
-🏫 Inha University <br>
-🏫 Lappeenranta University of Technology <br>
+🏫 Inha University (2019.03 ~ )<br>
+🏫 Lappeenranta University of Technology (2022.09 ~ 2022.12) <br>
 
 ✏️ I study Software Engineering
 
