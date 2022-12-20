@@ -7,7 +7,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syoung102)](https://github.com/syoung102/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syoung102&hide=jupyternotebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
