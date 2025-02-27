@@ -1,7 +1,9 @@
 ## SYOUNG102 🐤
 
-🏫 Inha University (2019.03 ~ )<br>
+🏫 Inha University (2019.03 ~ 2024.02)<br>
 🏫 Lappeenranta University of Technology (2022.09 ~ 2022.12) <br>
+💻 SSAFY 11기 (2024.01 ~ 2024.08) <br>
+🌐 Web Developer (2024.09 ~ ) <br>
 
 ✏️ I study Software Engineering
 
